@@ -8,7 +8,7 @@ This site will walk you through everything you need to **prepare your printer** 
 
 ## Quick Start
 1. [Prepare your workspace](workspace.md)  
-2. [Connect power and networking](power-network.md)  
+2. [Connect power and networking](power_network.md)  
 3. [Install the resin tank, build platform, and cartridges](setup.md)  
 4. [Confirm setup on the touchscreen](commands.md)  
 5. [Start your first print using PreForm](https://support.formlabs.com/s/article/PreForm-Software?language=en_US)
