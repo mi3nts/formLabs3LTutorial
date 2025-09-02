@@ -12,7 +12,7 @@ This ensures smooth installation, reliable printing, and safe handling of materi
 
 ---
 
-## 📐 Minimum Clearance
+## Minimum Clearance
 | Area              | Recommended Clearance |
 |-------------------|------------------------|
 | Sides & Back      | 30 cm (12 in)          |
@@ -21,7 +21,7 @@ This ensures smooth installation, reliable printing, and safe handling of materi
 
 ---
 
-## 🌡️ Environmental Requirements
+## Environmental Requirements
 - **Room Temperature**: 18–28 °C (64–82 °F)  
 - **Humidity**: Stable, low humidity preferred  
 - **Surface**: Place on a flat, vibration-free table or stand  
@@ -29,23 +29,23 @@ This ensures smooth installation, reliable printing, and safe handling of materi
 
 ---
 
-## ⚡ Power Requirements
+## Power Requirements
 - Dedicated **120 V circuit**, at least **8.5 A** (NEMA 5–20R outlet)  
 - Do not connect to a power strip with other high-draw devices.  
 - A UPS (uninterruptible power supply) is recommended to prevent interruptions during long prints.
 
 ---
 
-## 🌐 Network Requirements
+## Network Requirements
 - Connect to **AV Wi-Fi**  
 - Ensure network allows the printer to connect to the internet
 
 ---
 
-## ✅ Checklist Before Setup
+## Checklist Before Setup
 - [ ] Stable, level surface ready  
 - [ ] Power outlet accessible  
-- [ ] Network (Ethernet or Wi-Fi) available  
+- [ ] Network antenna available  
 - [ ] Enough clearance around printer  
 - [ ] Environment within temperature range  
 
