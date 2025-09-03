@@ -1,4 +1,4 @@
-# Safety & Environment
+
 
 Using the Form 3L safely ensures better results and protects users.
 
