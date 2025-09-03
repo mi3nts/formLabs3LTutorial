@@ -1,16 +1,17 @@
-<nav>
-[🏠 Home](index.md) |
-[Workspace](workspace.md) |
-[Power & Network](power-network.md) |
-[Components](components.md) |
-[Setup](setup.md) |
-[Touchscreen](commands.md) |
-[Troubleshooting](troubleshooting.md) |
-[Safety](safety-environment.md) |
-[FAQ](faq.md)
-</nav>
+# Power & Network Setup
 
-# ⚡ Power & Network Setup
+<!-- Navigation -->
+<nav>
+  <a href="index.md"> Home</a> |
+  <a href="workspace.md">Workspace</a> |
+  <a href="power-network.md">Power &amp; Network</a> |
+  <a href="components.md">Components</a> |
+  <a href="setup.md">Setup</a> |
+  <a href="commands.md">Touchscreen</a> |
+  <a href="troubleshooting.md">Troubleshooting</a> |
+  <a href="safety-environment.md">Safety</a> |
+  <a href="faq.md">FAQ</a>
+</nav>
 
 Now that your workspace is ready, let’s connect the **Formlabs 3L / 3BL** to power and your network.  
 Proper setup ensures stable printing and smooth communication with **PreForm** and **Dashboard**.
