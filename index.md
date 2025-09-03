@@ -23,7 +23,7 @@ This site will walk you through everything you need to **prepare your printer** 
 
 ## Sections
 - [Workspace Preparation](workspace.md)  
-- [Power & Network Setup](power-network.md)  
+- [Power & Network Setup](power_network.md)  
 - [Printer Components](components.md)  
 - [Step-by-Step Setup](setup.md)  
 - [Touchscreen Walkthrough](commands.md)  
