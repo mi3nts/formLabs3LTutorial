@@ -1,5 +1,3 @@
-# Printer Components Overview
-
 
 Before installing anything, be familiar with the **Formlabs 3L / 3BL** components.  
 Each part plays a role in reliable printing.
