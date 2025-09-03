@@ -1,4 +1,4 @@
-# Workspace Preparation
+
 
 Before setting up your **Formlabs 3L / 3BL**, it’s important to prepare the space where the printer will operate.  
 This ensures smooth installation, reliable printing, and safe handling of materials.
