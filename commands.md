@@ -1,4 +1,3 @@
-# Touchscreen Walkthrough
 
 The **touchscreen** is your control center for the Form 3L / 3BL.  
 Here’s what you’ll see and how to navigate it.
