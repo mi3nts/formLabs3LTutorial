@@ -1,4 +1,4 @@
-# Formlabs 3L Setup Guide
+
 
 Welcome to the **Formlabs 3L / 3BL** installation tutorial.  
 This guide will walk you through:
