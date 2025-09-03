@@ -1,8 +1,8 @@
-# 🖨️ Formlabs 3L Setup Guide
+# Formlabs 3L Setup Guide
 
 <!-- Navigation -->
 <nav>
-  <a href="index.md">🏠 Home</a> |
+  <a href="index.md"> Home</a> |
   <a href="workspace.md">Workspace</a> |
   <a href="power-network.md">Power &amp; Network</a> |
   <a href="components.md">Components</a> |
