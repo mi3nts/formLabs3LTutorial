@@ -1,1 +1,5 @@
 
+title: "Formlabs 3L Setup Guide"
+description: "Step-by-step tutorial for setting up a Form 3L / 3BL on GitHub Pages"
+theme: minima   # GitHub’s default, simple
+markdown: kramdown
