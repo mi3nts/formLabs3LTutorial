@@ -3,7 +3,7 @@
 <nav>
 [Home](index.md) |
 [Workspace](workspace.md) |
-[Power & Network](power-network.md) |
+[Power & Network](power_network.md) |
 [Components](components.md) |
 [Setup](setup.md) |
 [Touchscreen](commands.md) |
