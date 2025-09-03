@@ -14,6 +14,7 @@ This ensures smooth installation, reliable printing, and safe handling of materi
 
 ## Minimum Clearance
 | Area              | Recommended Clearance |
+
 |-------------------|------------------------|
 | Sides & Back      | 30 cm (12 in)          |
 | Top (to open lid) | 50 cm (20 in)          |
@@ -51,4 +52,4 @@ This ensures smooth installation, reliable printing, and safe handling of materi
 
 ---
 
-👉 Once your workspace is ready, continue to **[Power & Network Setup →](power-network.md)**.
+👉 Once your workspace is ready, continue to **[Power & Network Setup →](power_network.md)**.
