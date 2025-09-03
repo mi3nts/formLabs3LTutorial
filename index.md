@@ -1,30 +1,28 @@
-# Formlabs 3L Setup Guide
+# 🖨️ Formlabs 3L Setup Guide
 
+<!-- Navigation -->
 <nav>
-[Home](index.md) |
-[Workspace](workspace.md) |
-[Power & Network](power_network.md) |
-[Components](components.md) |
-[Setup](setup.md) |
-[Touchscreen](commands.md) |
-[Troubleshooting](troubleshooting.md) |
-[Safety](safety-environment.md) |
-[FAQ](faq.md)
+  <a href="index.md">🏠 Home</a> |
+  <a href="workspace.md">Workspace</a> |
+  <a href="power-network.md">Power &amp; Network</a> |
+  <a href="components.md">Components</a> |
+  <a href="setup.md">Setup</a> |
+  <a href="commands.md">Touchscreen</a> |
+  <a href="troubleshooting.md">Troubleshooting</a> |
+  <a href="safety-environment.md">Safety</a> |
+  <a href="faq.md">FAQ</a>
 </nav>
 
 Welcome to the **Formlabs 3L / 3BL** installation tutorial.  
-This GitHub Pages site walks you through:
+This guide will walk you through:
 
-- Preparing a safe, stable **workspace**
+- Preparing your **workspace**
 - Connecting **power & network**
-- Familiarizing yourself with **printer components**
-- Running **initial setup & calibration**
-- Learning **touchscreen navigation**
-- Troubleshooting common issues
-- Safety, maintenance, and FAQs
+- Learning **components**
+- Performing **initial setup**
+- Navigating the **touchscreen UI**
+- Troubleshooting, safety, and FAQs
 
 ---
 
-👉 Start here: [Prepare Your Workspace →](workspace.md)
-
-<footer>© 2025 MINTS – Form 3L Setup Guide</footer>
+👉 Start with [Workspace Preparation →](workspace.md)
