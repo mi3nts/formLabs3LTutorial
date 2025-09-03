@@ -1,4 +1,4 @@
-# 📲 Touchscreen Walkthrough
+# Touchscreen Walkthrough
 
 <!-- Navigation -->
 <nav>
