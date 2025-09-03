@@ -13,14 +13,15 @@ This ensures smooth installation, reliable printing, and safe handling of materi
 ---
 
 ## Minimum Clearance
-| Area              | Recommended Clearance |
-
-|-------------------|------------------------|
+| Area              | Recommended Clearance  |
 | Sides & Back      | 30 cm (12 in)          |
 | Top (to open lid) | 50 cm (20 in)          |
 | Front             | Clear access for touchscreen and resin cartridge slots |
 
 ---
+## Leveling
+- Use the circular tool to adjust the legs of the printer located at the four corners of the base.
+- Using the touch screen go to settings and find **leveling**, there you will find a digital level that will help you stabilize the printer
 
 ## Environmental Requirements
 - **Room Temperature**: 18–28 °C (64–82 °F)  
