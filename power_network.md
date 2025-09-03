@@ -1,4 +1,4 @@
-# Power & Network Setup
+
 
 
 Now that your workspace is ready, let’s connect the **Formlabs 3L / 3BL** to power and your network.  
