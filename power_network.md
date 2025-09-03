@@ -13,6 +13,7 @@
   <a href="faq.md">FAQ</a>
 </nav>
 
+
 Now that your workspace is ready, let’s connect the **Formlabs 3L / 3BL** to power and your network.  
 Proper setup ensures stable printing and smooth communication with **PreForm** and **Dashboard**.
 
@@ -40,7 +41,7 @@ Your Form 3L can connect via **Wi-Fi** or **ethernet** but we mainly use **Wi-Fi
 
 ---
 
-## 🔒 Network Requirements
+## Network Requirements
 To communicate with **PreForm** and the **Formlabs Dashboard**, make sure your network allows:  
 - **UDP 9993** (for printer discovery)  
 - **HTTPS 443** (for secure connections)  
