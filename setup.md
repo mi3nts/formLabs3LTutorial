@@ -1,4 +1,4 @@
-# Step-by-Step Setup
+
 
 With your workspace ready and components identified, let’s install everything into the printer.
 
