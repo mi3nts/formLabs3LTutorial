@@ -1,3 +1,15 @@
+<nav>
+[🏠 Home](index.md) |
+[Workspace](workspace.md) |
+[Power & Network](power-network.md) |
+[Components](components.md) |
+[Setup](setup.md) |
+[Touchscreen](commands.md) |
+[Troubleshooting](troubleshooting.md) |
+[Safety](safety-environment.md) |
+[FAQ](faq.md)
+</nav>
+
 # 🛠️ Step-by-Step Setup
 
 With your workspace ready and components identified, let’s install everything into the printer.

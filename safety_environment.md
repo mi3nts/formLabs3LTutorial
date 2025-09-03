@@ -1,3 +1,15 @@
+<nav>
+[🏠 Home](index.md) |
+[Workspace](workspace.md) |
+[Power & Network](power-network.md) |
+[Components](components.md) |
+[Setup](setup.md) |
+[Touchscreen](commands.md) |
+[Troubleshooting](troubleshooting.md) |
+[Safety](safety-environment.md) |
+[FAQ](faq.md)
+</nav>
+
 # Safety & Environment
 
 Using the Form 3L safely ensures better results and protects users.

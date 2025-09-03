@@ -1,4 +1,16 @@
-# 🧩 Printer Components Overview
+<nav>
+[🏠 Home](index.md) |
+[Workspace](workspace.md) |
+[Power & Network](power-network.md) |
+[Components](components.md) |
+[Setup](setup.md) |
+[Touchscreen](commands.md) |
+[Troubleshooting](troubleshooting.md) |
+[Safety](safety-environment.md) |
+[FAQ](faq.md)
+</nav>
+
+# Printer Components Overview
 
 Before installing anything, be familiar with the **Formlabs 3L / 3BL** components.  
 Each part plays a role in reliable printing.

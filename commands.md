@@ -1,3 +1,15 @@
+<nav>
+[🏠 Home](index.md) |
+[Workspace](workspace.md) |
+[Power & Network](power-network.md) |
+[Components](components.md) |
+[Setup](setup.md) |
+[Touchscreen](commands.md) |
+[Troubleshooting](troubleshooting.md) |
+[Safety](safety-environment.md) |
+[FAQ](faq.md)
+</nav>
+
 # 📲 Touchscreen Walkthrough
 
 The **touchscreen** is your control center for the Form 3L / 3BL.  

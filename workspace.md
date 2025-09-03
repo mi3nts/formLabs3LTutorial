@@ -1,3 +1,15 @@
+<nav>
+[🏠 Home](index.md) |
+[Workspace](workspace.md) |
+[Power & Network](power-network.md) |
+[Components](components.md) |
+[Setup](setup.md) |
+[Touchscreen](commands.md) |
+[Troubleshooting](troubleshooting.md) |
+[Safety](safety-environment.md) |
+[FAQ](faq.md)
+</nav>
+
 # Workspace Preparation
 
 Before setting up your **Formlabs 3L / 3BL**, it’s important to prepare the space where the printer will operate.  

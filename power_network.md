@@ -1,3 +1,15 @@
+<nav>
+[🏠 Home](index.md) |
+[Workspace](workspace.md) |
+[Power & Network](power-network.md) |
+[Components](components.md) |
+[Setup](setup.md) |
+[Touchscreen](commands.md) |
+[Troubleshooting](troubleshooting.md) |
+[Safety](safety-environment.md) |
+[FAQ](faq.md)
+</nav>
+
 # ⚡ Power & Network Setup
 
 Now that your workspace is ready, let’s connect the **Formlabs 3L / 3BL** to power and your network.  
